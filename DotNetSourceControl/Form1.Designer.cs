@@ -37,7 +37,7 @@
             btnGreeting.Name = "btnGreeting";
             btnGreeting.Size = new Size(113, 63);
             btnGreeting.TabIndex = 0;
-            btnGreeting.Text = "Click This Button";
+            btnGreeting.Text = "Click This Button For A Suprise";
             btnGreeting.UseVisualStyleBackColor = true;
             btnGreeting.Click += btnGreeting_Click;
             // 
